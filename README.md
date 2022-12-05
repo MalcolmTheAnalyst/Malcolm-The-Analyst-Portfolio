@@ -1,2 +1,2 @@
-# Malcolm-The-Analyst-Portfolio
-A Data Analyst well versed in SQL, Excel, Tableau, with foundational knowledge in Python and r
+# Excel-Project
+Showcases my skills of taking raw data and cleaning it to create pivot tables and dashboard
